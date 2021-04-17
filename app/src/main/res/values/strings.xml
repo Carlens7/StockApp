@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">StockApp</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Search</string>
+    <string name="title_notifications">News</string>
+    <string name="title_favorites">Favorites</string>
+</resources>
